@@ -1,0 +1,20 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack": "^3.5.6"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "json-loader": "^0.5.7",
+    "style-loader": "^0.18.2"
+  },
+  "scripts": {
+    "wpk": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
