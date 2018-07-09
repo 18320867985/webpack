@@ -16,5 +16,13 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "webpack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18320867985/webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/18320867985/webpack/issues"
+  },
+  "homepage": "https://github.com/18320867985/webpack#readme"
 }
